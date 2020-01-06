@@ -21,3 +21,4 @@ names.*.txt
 index*.csv
 *.db
 *.zip
+docs/*.png
