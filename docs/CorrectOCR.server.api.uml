@@ -1,6 +1,7 @@
 @startuml
 
-!include puml-theme-cerulean.puml
+'disable theme on master until RTD plantuml version catches up
+'!include puml-theme-cerulean.puml
 
 |Frontend|
 start
